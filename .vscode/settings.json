@@ -1,0 +1,6 @@
+{
+    "emulator.emulatorPath": "C:\\Users\\lenovo\\AppData\\Local\\Android\\Sdk\\emulator",
+    "emulator.emulatorPathWindows": "C:\\Users\\USER\\AppData\\Local\\Android\\Sdk\\emulator\\emulator",
+    "files.autoSaveDelay": 500,
+    "dart.flutterHotReloadOnSave": "all"
+}
